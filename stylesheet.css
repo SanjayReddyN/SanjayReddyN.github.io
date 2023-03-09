@@ -1,0 +1,50 @@
+.index_page {
+    background-color: #7469f0;
+    font-size: 35px;
+}
+.music_page {
+    background-color: #6A7BDA;
+    font-size: 35px;
+    font-family: Garamond, sans-serif;
+}
+p {
+    font-size: 25px;
+    font-family: Times New Roman, sans-serif;
+}
+img {
+	object-fit: scale-down;
+	width:600px;
+    height:600px;
+}
+.img_label{
+    font-style: italic;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #00FF00
+}
+.main_list{
+    font-size: 40px;
+    font-weight: bold;
+}
+.album_page{
+    font-family: Trebuchet MS, sans-serif;
+    font-size: 35px;
+    background-color: #000000;
+    color: #699CF0;
+}
+.travel_page{
+    background-color: #5a21f5;
+    font-size: 35px;
+}
+nav {
+    padding: 10px;
+	font-size: 30px;
+    font-weight: bold;
+	margin: 5px;
+	background-color: #00ccff;
+    font-family: Garamond, sans-serif;
+}
+.games_page{
+    background-color: #00ccff;
+    font-size: 35px;
+}
